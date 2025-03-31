@@ -1,2 +1,3 @@
 hi this is my first file
 this line is for commit C4
+this line is for commit C6
